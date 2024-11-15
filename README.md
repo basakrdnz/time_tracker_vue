@@ -1,6 +1,6 @@
 # Time Tracker By Basak
 
-Bu proje, bir görev veya projede harcanan zamanı takip etmeyi kolaylaştırır. Kullanıcı görevler ekleyebilir, bu görevlerin üzerinde çalışmaya başladığında zamanlayıcıyı başlatabilir ve durdurabilir. Uygulama, kullanıcıya toplam çalışma süresini gösterir ve çeşitli görsel unsurlar ile kullanıcı dostu bir arayüz sunar.
+Bu proje, bir görev veya projede harcanan zamanı takip etmeyi kolaylaştırır. Kullanıcı görevler ekleyebilir, bu görevlerin üzerinde çalışmaya başladığında zamanlayıcıyı başlatabilir ve durdurabilir. Uygulama, kullanıcıya toplam çalışma süresini gösterir.
 
 ## Proje Özellikleri
 
@@ -8,17 +8,12 @@ Bu proje, bir görev veya projede harcanan zamanı takip etmeyi kolaylaştırır
 - **Zaman Takibi**: Her görev için ayrı ayrı süre tutulur, görev üzerinde çalışmaya başlamak için "Başlat", durdurmak için "Durdur" butonları kullanılır.
 - **Tema Seçimi ve Görev Temizleme**: Kullanıcı, koyu ve açık tema arasında geçiş yapabilir. Ayrıca, tüm görevleri temizleme seçeneği de vardır.
 - **Toplam Süre Gösterimi**: Eklenen görevlerin toplam süresi bir rapor bölmesinde gösterilir.
-- **Estetik Tasarım**: Renk paleti ve animasyonlarla kullanıcı dostu bir deneyim sağlanır.
+- **Tasarım**: Tasarım kısmını çok ciddi alınması için yapmadım tamamen kendi keyif aldığım şekilde rengarenk gereksiz renkler kullandım. Bu proje benim için keyfiydi ve bir tasarım üzerinden ilerlemedim.
 
 ## Ekran Görüntüleri
 
-### Görev Listesi ve Zaman Takibi
-![Time Tracker Interface](./assets/images/time_track_img_1.png)
-
-### Ayarlar ve Tema Değiştirme
-![Settings Interface](./assets/images/time_track_img_2.png)
-
-## Kurulum Adımları
+![Time Tracker Interface](public/time_track_img_1.png)
+![Settings Interface](public/time_track_img_2.png)
 
 ### Gereksinimler
 
