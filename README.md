@@ -1,29 +1,35 @@
-# time_tracker_vue
+# Time Tracker By Basak
 
-This template should help get you started developing with Vue 3 in Vite.
+Bu proje, bir görev veya projede harcanan zamanı takip etmeyi kolaylaştırır. Kullanıcı görevler ekleyebilir, bu görevlerin üzerinde çalışmaya başladığında zamanlayıcıyı başlatabilir ve durdurabilir. Uygulama, kullanıcıya toplam çalışma süresini gösterir ve çeşitli görsel unsurlar ile kullanıcı dostu bir arayüz sunar.
 
-## Recommended IDE Setup
+## Proje Özellikleri
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Görev Ekleme ve Yönetme**: Kullanıcı yeni bir görev ekleyebilir, var olan görevleri başlatabilir, durdurabilir veya silebilir.
+- **Zaman Takibi**: Her görev için ayrı ayrı süre tutulur, görev üzerinde çalışmaya başlamak için "Başlat", durdurmak için "Durdur" butonları kullanılır.
+- **Tema Seçimi ve Görev Temizleme**: Kullanıcı, koyu ve açık tema arasında geçiş yapabilir. Ayrıca, tüm görevleri temizleme seçeneği de vardır.
+- **Toplam Süre Gösterimi**: Eklenen görevlerin toplam süresi bir rapor bölmesinde gösterilir.
+- **Estetik Tasarım**: Renk paleti ve animasyonlarla kullanıcı dostu bir deneyim sağlanır.
 
-## Customize configuration
+## Ekran Görüntüleri
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Görev Listesi ve Zaman Takibi
+![Time Tracker Interface](./assets/images/time_track_img_1.png)
 
-## Project Setup
+### Ayarlar ve Tema Değiştirme
+![Settings Interface](./assets/images/time_track_img_2.png)
 
-```sh
-npm install
-```
+## Kurulum Adımları
 
-### Compile and Hot-Reload for Development
+### Gereksinimler
 
-```sh
-npm run dev
-```
+Bu projeyi çalıştırmak için aşağıdaki araçlara ihtiyaç vardır:
 
-### Compile and Minify for Production
+- [Node.js](https://nodejs.org/) (14.x veya üstü önerilir)
+- [npm](https://www.npmjs.com/) veya [Yarn](https://yarnpkg.com/) paket yöneticisi
 
-```sh
-npm run build
-```
+### Proje Kurulumu
+
+1. **Depoyu klonlayın**:
+   ```bash
+   git clone https://github.com/kullanici_adiniz/time_tracker_vue.git
+   cd time_tracker_vue
